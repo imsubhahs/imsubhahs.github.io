@@ -85,7 +85,7 @@ h1{
   }
 /* navbar */
 
-#navbar{
+#nav-menu{
     display: flex;
     width: 100vw;
     height: 8vh;

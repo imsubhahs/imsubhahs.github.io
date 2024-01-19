@@ -10,8 +10,10 @@ function openNav() {
   
   function download() {
     window.open(
-      "https://drive.google.com/file/d/1XUASBk9SaAmFSgpU1H22Gp4EhX8CZuLA/view"
-    );
+      //"https://drive.google.com/file/d/1XUASBk9SaAmFSgpU1H22Gp4EhX8CZuLA/view"
+
+      "https://drive.google.com/drive/u/1/folders/19G51QnSjioRe4sXrD7KzSjXXCWxOWBuK"
+         );
   }
   
   
